@@ -1,0 +1,12 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/DroidStar">
+<file alias="main.qml">/home/dr/Code/Droidstar-DMR-Modified/main.qml</file>
+<file alias="AboutTab.qml">/home/dr/Code/Droidstar-DMR-Modified/AboutTab.qml</file>
+<file alias="HostsTab.qml">/home/dr/Code/Droidstar-DMR-Modified/HostsTab.qml</file>
+<file alias="LogTab.qml">/home/dr/Code/Droidstar-DMR-Modified/LogTab.qml</file>
+<file alias="MainTab.qml">/home/dr/Code/Droidstar-DMR-Modified/MainTab.qml</file>
+<file alias="SettingsTab.qml">/home/dr/Code/Droidstar-DMR-Modified/SettingsTab.qml</file>
+<file alias="fontawesome-webfont.ttf">/home/dr/Code/Droidstar-DMR-Modified/fontawesome-webfont.ttf</file>
+<file alias="QsoTab.qml">/home/dr/Code/Droidstar-DMR-Modified/QsoTab.qml</file>
+</qresource>
+</RCC>
